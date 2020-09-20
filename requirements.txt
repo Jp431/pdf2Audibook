@@ -1,0 +1,4 @@
+pdfPlumber
+pyttsx3
+espeak
+ffmpeg
